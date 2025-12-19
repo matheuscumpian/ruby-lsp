@@ -31,6 +31,10 @@ Ensure Mise is up-to-date: https://mise.jdx.dev/faq.html#mise-is-failing-or-not-
 
 Ensure RVM is up-to-date: https://rvm.io/rvm/upgrading
 
+## rv
+
+Ensure rv is installed and up-to-date. The extension expects a `.ruby-version` file to be present in the project to determine the version to use.
+
 ## Custom activation
 
 If you're using a different version manager that's not supported by this extension or if you're manually inserting the Ruby
